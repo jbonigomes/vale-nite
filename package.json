@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "vite",
-    "deploy": "vite build --base=/card-game && ./deploy.sh"
+    "deploy": "vite build --base=/vale-nite && ./deploy.sh"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.39.1",
